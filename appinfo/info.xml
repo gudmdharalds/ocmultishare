@@ -2,7 +2,7 @@
 <info>
     <id>ocmultishare</id>
     <name>OC Multishare</name>
-    <description>Allows sharing of the same file (or directory) via RESTful API, using dissimilar tokens that expire at different time.</description>
+    <description>Allows sharing of the same file (or directory) via RESTful API, using dissimilar tokens that expire at different times.</description>
     <licence>GPL</licence>
     <author>Gudmundur D. Haraldsson</author>
     <version>0.1</version>
