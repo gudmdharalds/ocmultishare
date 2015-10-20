@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>ocmultishare</id>
+    <name>OC Multishare</name>
+    <description>Allows sharing of the same file (or directory) via RESTful API, using dissimilar tokens that expire at different time.</description>
+    <licence>GPL</licence>
+    <author>Gudmundur D. Haraldsson</author>
+    <version>0.1</version>
+    <namespace>ocmultishare</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8" />
+    </dependencies>
+</info>
